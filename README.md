@@ -1,5 +1,11 @@
 # 澳门书院防诈宣传静态网站
 
+公开网址：https://zhuolin272-dotcom.github.io/macau-antifraud/
+
+项目仓库：https://github.com/zhuolin272-dotcom/macau-antifraud
+
+`main` 分支更新后，GitHub Actions 自动发布四个页面与 `assets`、`materials` 资源。
+
 根据 `提示词.docx` 制作，使用 HTML、CSS、JavaScript，无后端、数据库、注册或发帖功能。所有页面内容在本地运行，不向外部发送搜索词或访客数据。
 
 ## 打开网站
